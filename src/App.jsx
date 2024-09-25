@@ -5,9 +5,9 @@ import Homepage from './components/Homepage';
 import SignIn from './components/SignIn'; // Fixed import path
 import Pathways from './components/Pathways';
 import Chat from './components/Chat';
-import Resource from './components/resources';
+import Resource from './components/Resources';
 import Test from './components/Test';
-import Tools from './components/tools';
+import Tools from './components/Tools';
 import Dashboard from './components/Dashboard';
 import Mentorship from './components/Mentorship';
 import Chatbot from './components/chat-comp/Chatbot';

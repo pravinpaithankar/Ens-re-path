@@ -1,4 +1,3 @@
-// src/components/Chatbot.jsx
 import React from 'react';
 import { AiOutlineRobot } from 'react-icons/ai'; 
 
