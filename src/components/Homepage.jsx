@@ -4,7 +4,6 @@ import HeroSection from './home-comp/HeroSection';
 import FeaturesSection from './home-comp/FeaturesSection';
 import AboutSection from './home-comp/AboutSection';
 import ResourcesSection from './home-comp/ResourcesSection';
-import TeamSection from './home-comp/TeamSection';
 import ContactSection from './home-comp/ContactSection';
 import Footer from './Footer';
 
@@ -24,7 +23,6 @@ const Homepage = () => {
         <HeroSection />
         <FeaturesSection />
         <AboutSection />
-        {/* <TeamSection /> */}
         <ResourcesSection />
         <ContactSection />
       </main>
